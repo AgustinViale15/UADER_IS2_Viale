@@ -1,8 +1,0 @@
-[tool.black]
-line-length = 88
-
-[tool.ruff]
-select = ["E", "F", "I", "B", "UP"]
-
-[tool.coverage]
-fail_under = 90
